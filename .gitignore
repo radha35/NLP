@@ -6,4 +6,7 @@ __pycache__/
 
 cleaned_imdb_dataset.csv
 
+.cache/kagglehub/datasets/khulasasndh/game-of-thrones-books/
+
+
 
